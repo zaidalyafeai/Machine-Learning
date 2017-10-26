@@ -13,6 +13,3 @@ This repository implements most of the machine learning algorithm as ipython not
 
 ## Optimization methods 
 * Newton
-* RMSP 
-* Adam 
-* Momentum Update 

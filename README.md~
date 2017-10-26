@@ -6,3 +6,13 @@ This repository implements most of the machine learning algorithm as ipython not
 * Linear regression using normal equations
 * Linear regression using SGD
 * Locally Weighted Regress (LOWESS)
+
+## Classification 
+* Logistic regression classifier
+* softmax classifier 
+
+## Optimization methods 
+* Newton
+* RMSP 
+* Adam 
+* Momentum Update 
