@@ -15,3 +15,4 @@ This repository implements most of the machine learning algorithm as ipython not
 * Newton
 
 ## Deep Learning
+*
