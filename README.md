@@ -15,4 +15,5 @@ This repository implements most of the machine learning algorithm as ipython not
 * Newton
 
 ## Deep Learning
-* Pytorch learning of MNIST
+* MNIST training Pytorch 
+* Pretrained model resnet for ImageNet Pytorch 
