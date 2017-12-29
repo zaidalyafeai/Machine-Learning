@@ -17,3 +17,4 @@ This repository implements most of the machine learning algorithm as ipython not
 ## Deep Learning
 * MNIST training Pytorch 
 * Pretrained model resnet for ImageNet Pytorch 
+* Transfere Learning Pytorch 
