@@ -18,3 +18,4 @@ This repository implements most of the machine learning algorithm as ipython not
 * MNIST training Pytorch 
 * Pretrained model resnet for ImageNet Pytorch 
 * Transfere Learning Pytorch 
+* Multi-input CNN Pytorch 
